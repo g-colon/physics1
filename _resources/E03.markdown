@@ -48,7 +48,7 @@ resource: 03
   <a href="https://drive.google.com/file/d/1ey1zlaA9Uc_F6jtl--vRz6drPjDy879Y/view" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/E03d.png" alt="equil practice Lec 26" >
-      <figcaption class="thumblink-caption"> Lever in Equilibrium <br> Solution (Lec 26) </figcaption>
+      <figcaption class="thumblink-caption"> Beam in Equilibrium <br> Solution (Lec 26) </figcaption>
     </figure>
   </a>
 
