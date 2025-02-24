@@ -37,7 +37,7 @@ lesson: 07
     src="http://img.youtube.com/vi/198u1x8TBTo/hqdefault.jpg"
     alt="kinematics youtube video" >
       <figcaption class="thumblink-caption" style="width: 170px;">
-    Youtube Video: <br> Basic Kinematics </figcaption>
+    YouTube Video: <br> Basic Kinematics </figcaption>
     </figure>
   </a>
 

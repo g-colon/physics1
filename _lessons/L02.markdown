@@ -52,7 +52,7 @@ lesson: 02
       <img class="thumblink-img"
     src="http://img.youtube.com/vi/OvcDcQ_KgbU/hqdefault.jpg"
     alt="trig review youtube video" >
-      <figcaption class="thumblink-caption" style="width: 180px;"> Youtube Video: Trigonometry Review </figcaption>
+      <figcaption class="thumblink-caption" style="width: 180px;"> YouTube Video: Trigonometry Review </figcaption>
     </figure>
   </a>
 

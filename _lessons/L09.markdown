@@ -47,6 +47,23 @@ lesson: 09
 
 </div>
 
+<div class="heading3">
+  Videos
+</div>
+
+<div class="thumb_container">
+
+  <a href="https://www.youtube.com/watch?v=0fKBhvDjuy0" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img"
+    src="https://img.youtube.com/vi/0fKBhvDjuy0/hqdefault.jpg"
+    alt="powers of ten youtube video" >
+      <figcaption class="thumblink-caption" style="width: 170px;">
+    YouTube Video: <br> Powers of Ten </figcaption>
+    </figure>
+  </a>
+
+</div>
 
 [//]: <><div class="heading3">
 [//]: <>  Lecture Videos

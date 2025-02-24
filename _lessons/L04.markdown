@@ -24,7 +24,7 @@ lesson: 04
 
 <div class="thumb_container">
 
-  <a href="{{site.baseurl}}/handouts/h04_vector_add.pdf" target="_blank">
+  <a href="{{site.baseurl}}/handouts/h04_Vector_add.pdf" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H04b.png" alt="vector worksheet image" >
       <figcaption class="thumblink-caption"> Vector Worksheet </figcaption>
