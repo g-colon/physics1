@@ -38,6 +38,14 @@ lesson: 23
     </figure>
   </a>
 
+  <a href="{{site.baseurl}}/handouts/h23_Equilibrium2.pdf" target="_blank">
+    <figure class="thumblink">
+      <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/H23.png" alt="torque practice image" >
+      <figcaption class="thumblink-caption"> More Equilibrium Practice </figcaption>
+    </figure>
+  </a>
+
+
 </div>
 
 
