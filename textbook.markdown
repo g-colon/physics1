@@ -7,11 +7,11 @@ permalink: /textbook/
 <h3 style="text-align: center;"> (page under construction) </h3>
 
 <p><b>Textbook</b> [Recommended, not Required]: </p>
-<p style="margin-left:5%"> Physics for Physicists and Engineers, Vol. 1, 5th Ed., Knight. </p>
+<p style="margin-left:5%"> <i>Physics for Physicists and Engineers</i>, Vol. 1, 5th Ed., by Randall D. Knight, Pearson. </p>
 
-<p style="margin-left:5%"> <em><u>Mastering Physics</u></em>, an online homework system associated with this textbook, is required. Instructions below. </p>
+<p style="margin-left:5%; margin-top:3%"> <em><u>Mastering Physics</u></em>, an online homework system associated with this textbook, is required. Instructions below. </p>
 
-<div class="thumb_container">
+<div class="thumb_container" style="padding-bottom:1em">
   <a href="https://drive.google.com/file/d/1yyciHs3GIjsXWb-T1bY4H1TKxwnQItyr/view" target="_blank">
     <figure class="thumblink">
       <img class="thumblink-img-portrait" src="{{site.baseurl}}/images/thumbs/MP00.png" alt="Mastering image" >
