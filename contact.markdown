@@ -14,9 +14,9 @@ permalink: /contact/
   </div>
 
   <div style="padding-top: .9em;">
-    <p> <b>German Col&#243;n</b>, Associate Professor <br>
+    <p> <b>German Col&#243;n</b>, Professor <br>
         <b>Department:</b> Science &#38; Mathematics <br>
-        <b>Office:</b> HA-314A <br>
+        <b>Office:</b> MK-304 <br>
         <b>email:</b> gcolon@maritime.edu
     </p>
     <br>

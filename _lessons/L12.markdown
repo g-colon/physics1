@@ -1,6 +1,6 @@
 ---
 #layout: lesson
-title: "Dynamics: Mass, Weight, Apparent Weight"
+title: "Dynamics: Mass, Weight, Apparent Weight, Weightlessness"
 lesson: 12
 ---
 

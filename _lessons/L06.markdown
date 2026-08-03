@@ -1,6 +1,6 @@
 ---
 #layout: lesson
-title: "Newton's 1st Law, Translational Equilibrium"
+title: "Newton's 1st Law, (Translational) Equilibrium"
 lesson: 06
 ---
 
